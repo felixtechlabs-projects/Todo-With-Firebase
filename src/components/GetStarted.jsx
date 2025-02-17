@@ -11,8 +11,6 @@ const GetStarted = () => {
         <button className='btn btn-outline-primary ms-3'
         onClick={() => navigate('/signin')}
         > SignIn </button>
-
-
     </div>
   )
 }
